@@ -1,0 +1,8 @@
+## Interface: 11305
+## Title: DudechatAddon
+## Notes: Displays item tier, prices, and priority on the tooltip.
+## Version 0.0.1
+
+constants.lua
+db_items.lua
+DudechatAddon.lua
